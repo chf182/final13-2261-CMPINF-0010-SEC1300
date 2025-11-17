@@ -13,4 +13,4 @@ https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-32
 Pittsburgh Police Arrests (2024-2025): a dataset of all arrest information by Pittsburgh Police from the start of 2024 through 2025 October 31st 
 https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025/resource/e419c20c-8df4-4729-830c-e49427a656e0
 
-Overview: This project analyzes which neighborhood in Pittsburgh is the "best" based off data of tax deliquency, air quality, and arrests in Pittsburgh.
+Overview: This project analyzes which neighborhood in Pittsburgh is the "best" based off data of tax deliquency, air quality, and arrests by Pittsbugh Police.
